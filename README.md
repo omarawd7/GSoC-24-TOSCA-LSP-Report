@@ -8,7 +8,7 @@
 | **Organization**       | [Eclipse Foundation](https://www.eclipse.org/org/foundation/)                                               |
 | **Primary repository**  | [org.eclipse.winery.lsp](https://github.com/omarawd7/winery/tree/lsp/org.eclipse.winery.lsp)             |
 | **Project name**       | Tosca LSP Server                                                 |
-| **Project mentor**    | Olivar Kooper                                        |
+| **Project mentor**    | Oliver Koopor                                        |
 | **Project page**       | [Google Summer of Code 2024 Project Page](https://summerofcode.withgoogle.com/myprojects/details/56o5Fdkj)  |
 | **Status**             | Complete                                               |
 
