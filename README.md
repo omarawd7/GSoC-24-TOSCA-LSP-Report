@@ -10,7 +10,7 @@
 | **Project name**       | Tosca LSP Server                                                 |
 | **Project mentor**    | Dr. Oliver Kopp                                        |
 | **Project page**       | [Google Summer of Code 2024 Project Page](https://summerofcode.withgoogle.com/myprojects/details/56o5Fdkj)  |
-| **Status**             | Complete                                               |
+
 
 ## Vision
 
