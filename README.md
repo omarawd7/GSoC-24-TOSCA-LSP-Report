@@ -1,5 +1,17 @@
 # TOSCA v2 Language Server
 
+## Project Information
+
+| **Field**              | **Details**                                                      |
+|------------------------|------------------------------------------------------------------|
+| **Student**            | Omar Awad                                                        |
+| **Organization**       | Eclipse Foundation                                               |
+| **Primary repository**  | [org.eclipse.winery.lsp]([https://github.com/your-repo](https://github.com/omarawd7/winery/tree/lsp/org.eclipse.winery.lsp))             |
+| **Project name**       | Tosca LSP Server                                                 |
+| **Project mentors**    | Olivar Kooper, Mentor 2                                               |
+| **Project page**       | [Google Summer of Code 2024 Project Page](https://summerofcode.withgoogle.com/myprojects/details/56o5Fdkj)  |
+| **Status**             | Complete                                               |
+
 ## Vision
 
 Applications today are often made up of multiple components, which may be distributed across various microservices.
@@ -21,9 +33,9 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 
 ## Technologies and Tools
 
-- **Language**: Java
-- **Build System**: Gradle
-- **Editor**: Visual Studio Code (for testing LSP features)
-- **TOSCA Specification**: TOSCA Version 2.0
-- **Communication Protocol**: Language Server Protocol (LSP) over `stdio` launcher
-- **YAML Library**: SnakeYAML (for parsing YAML files)
+- **Language**: Java.
+- **Build System**: Gradle.
+- **Editor**: Visual Studio Code (for testing LSP features).
+- **TOSCA Specification**: TOSCA Version 2.0.
+- **Communication Protocol**: Language Server Protocol (LSP) over `stdio` launcher.
+- **YAML Library**: SnakeYAML (for parsing YAML files).
