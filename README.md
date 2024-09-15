@@ -1,7 +1,8 @@
 # GSOC 2024 TOSCA version 2 Language Server
 <br>
 <br>
-## Project Information
+
+##  Project Information
 
 | **Field**              | **Details**                                                      |
 |------------------------|------------------------------------------------------------------|
