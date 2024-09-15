@@ -63,7 +63,7 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
   ![image](https://github.com/user-attachments/assets/7580ad15-fcee-40e4-a328-e80732e31b21)
   `service template`:
   ![image](https://github.com/user-attachments/assets/d49bb148-b2c3-46b3-97a4-1273a8b75a91)
-- ### Validation with error reporting for `schema`, `requirement`, `property`, and `capability` definitions.
+- ### Validation with error reporting for schema, requirement, property, and capability definitions.
 
   `schema definition`:
   ![image](https://github.com/user-attachments/assets/43c19f26-8996-494d-b383-7f90668125e9)
