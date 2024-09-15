@@ -48,6 +48,10 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 ![image](https://github.com/user-attachments/assets/c1faad9d-fd93-4f68-a674-3f266a94d4a1)
 ![image](https://github.com/user-attachments/assets/e74f53d1-df61-47ea-bfc3-42b5b34ae215)
   - Validation with error reporting for `node`, `relationship`, `capability`, and `artifact` types.
+![image](https://github.com/user-attachments/assets/6fca6960-1df7-4957-995e-50c4038700f1)
+![image](https://github.com/user-attachments/assets/94378602-20c6-42a5-a788-cdbc81b75069)
+![image](https://github.com/user-attachments/assets/42452cab-0c62-4e66-8659-82fa822ab192)    
+![image](https://github.com/user-attachments/assets/4ba86af7-f7f9-4704-a10f-5ab7c3f69e0d)
   - Validation with error reporting for the TOSCA boolean functions.
 ## Technologies and Tools
 
