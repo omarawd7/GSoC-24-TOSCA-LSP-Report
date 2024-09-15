@@ -28,7 +28,9 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
   - Context dependent auto-completion for TOSCA keywords.
 ![ContextDependentKeywordsCompletion](https://github.com/user-attachments/assets/21e4c19d-32d2-400d-9207-106c01289803)
 
-  - Context dependent auto-completion types value.
+  - Context dependent auto-completion types value for `node templates` and `capability definitions`.
+![type_auto_completion](https://github.com/user-attachments/assets/5235a4f1-0a50-49ba-832a-44f64f874304)
+
   - Context dependent auto-completion drived_from values.
   - Yaml syntax validation with error reporting.
   - Improved parsing of `imports` definitions for nested TOSCA files.
