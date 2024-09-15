@@ -1,7 +1,7 @@
 # TOSCA v2 Language Server
-
-
-
+<br>
+<br>
+<br>
 ## Project Information
 
 | **Field**              | **Details**                                                      |
@@ -31,13 +31,16 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
   - Syntax validation with error reporting.
   - Improved parsing of `imports` definitions for nested TOSCA files.
   - Support for multi-file TOSCA projects.
-  - Extend validation for `node`, `requirement`, `capability`, and `artifact` types.
-
+  - Validation for `service`, and `node` templates.
+  - Validation for `schema`, `requirement`, `property`, and `capability` definitions.
+  - Validation for `node`, `relationship`, `capability`, and `artifact` types.
+  - Validation for the TOSCA boolean functions.
 ## Technologies and Tools
 
 - **Language**: Java.
 - **Build System**: Gradle.
 - **Editor**: Visual Studio Code (for testing LSP features).
 - **TOSCA Specification**: TOSCA Version 2.0.
+- **Java library**: LSP4j (for building the LSP server).
 - **Communication Protocol**: Language Server Protocol (LSP) over `stdio` launcher.
 - **YAML Library**: SnakeYAML (for parsing YAML files).
