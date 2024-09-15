@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/ffc546a1-953a-40d5-ad73-03914e4b9b1f
 # GSOC 2024 TOSCA version 2 Language Server
 <br>
 <br>
@@ -26,7 +28,14 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 
  ## LSP Features
  
-  - Context dependent auto-completion for TOSCA keywords, types, and drived_from values.
+  - Context dependent auto-completion for TOSCA keywords.
+    
+
+https://github.com/user-attachments/assets/b549adeb-6529-4c3a-80ca-f121c2c11383
+
+
+  - Context dependent auto-completion types value.
+  - Context dependent auto-completion drived_from values.
   - Yaml syntax validation with error reporting.
   - Improved parsing of `imports` definitions for nested TOSCA files.
 
