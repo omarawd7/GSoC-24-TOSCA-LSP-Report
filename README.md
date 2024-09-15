@@ -24,17 +24,16 @@ Currently, crafting TOSCA YAML files manually is complex and prone to errors due
 This project aims to develop a **Language Server for TOSCA v2** that integrates with Visual Studio Code (VS Code).
 It provides users with assistance in editing TOSCA YAML files, making the process more efficient and less error-prone.
 
-## Goals and Deliverables
-
-- **LSP Features**:
+- ##LSP Features:
   - Context dependent auto-completion for TOSCA keywords, types, and drived_from values.
-  - Syntax validation with error reporting.
+  - Yaml syntax validation with error reporting.
   - Improved parsing of `imports` definitions for nested TOSCA files.
   - Support for multi-file TOSCA projects.
-  - Validation for `service`, and `node` templates.
-  - Validation for `schema`, `requirement`, `property`, and `capability` definitions.
-  - Validation for `node`, `relationship`, `capability`, and `artifact` types.
-  - Validation for the TOSCA boolean functions.
+  - The LSP is aware of the newly introduced types and definitions.
+  - Validation with error reporting for `service`, and `node` templates.
+  - Validation with error reporting for `schema`, `requirement`, `property`, and `capability` definitions.
+  - Validation with error reporting for `node`, `relationship`, `capability`, and `artifact` types.
+  - Validation with error reporting for the TOSCA boolean functions.
 ## Technologies and Tools
 
 - **Language**: Java.
