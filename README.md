@@ -29,16 +29,16 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
  - Context dependent auto-completion for TOSCA keywords.
     
 ![ContextDependentKeywordsCompletion](https://github.com/user-attachments/assets/21e4c19d-32d2-400d-9207-106c01289803)
-  - Context dependent auto-completion types value for `node templates` and `capability definitions`.
+  - Context dependent auto-completion types value for node templates and capability definitions.
     
 ![Context_dependent_auto_completion_types ](https://github.com/user-attachments/assets/16a64091-993d-46fd-8aa1-de5b68c0d66a)
-  - Context dependent auto-completion drived_from values for `node`, `relationship`, `capability`, and `artifact` types.
+  - Context dependent auto-completion drived_from values for node, relationship, capability, and artifact types.
     
 ![Context_dependent_auto_completion_drived_from_values](https://github.com/user-attachments/assets/4a185f51-bc5a-4a86-a8dc-bfb01ede7342)
   - Yaml syntax validation with error reporting.
     
 ![yaml_validation](https://github.com/user-attachments/assets/f24587a2-84b0-45a5-abc9-8d463a96cea0)
-  - Improved parsing of `imports` definitions for nested TOSCA files.
+  - Improved parsing of imports definitions for nested TOSCA files.
     
 ![importsTest](https://github.com/user-attachments/assets/cf4f7681-0463-4142-889e-2f1566bbe1d9)
   - Support for multi-file TOSCA projects.
@@ -47,7 +47,7 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
   - The LSP is aware of the newly introduced types and definitions.
     
 ![awarness_of_newly_introduced_types_and_definitions](https://github.com/user-attachments/assets/7faa3572-0e6a-4a97-a1db-8d13fb52e818)
-  - Validation with error reporting for `service`, and `node` templates.
+  - Validation with error reporting for service, and node templates.
     
 ![image](https://github.com/user-attachments/assets/7580ad15-fcee-40e4-a328-e80732e31b21)
 ![image](https://github.com/user-attachments/assets/d49bb148-b2c3-46b3-97a4-1273a8b75a91)
