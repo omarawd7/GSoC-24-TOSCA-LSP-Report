@@ -53,6 +53,8 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 ![image](https://github.com/user-attachments/assets/42452cab-0c62-4e66-8659-82fa822ab192)    
 ![image](https://github.com/user-attachments/assets/4ba86af7-f7f9-4704-a10f-5ab7c3f69e0d)
   - Validation with error reporting for the TOSCA boolean functions.
+![TOSCA_boolean_functions_test](https://github.com/user-attachments/assets/dc88bbc5-837c-49db-a727-bbc605065f7d)
+
 ## Technologies and Tools
 
 - **Language**: Java.
