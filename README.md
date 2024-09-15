@@ -23,9 +23,10 @@ Currently, crafting TOSCA YAML files manually is complex and prone to errors due
 This project aims to develop a **Language Server for TOSCA v2** that integrates with Visual Studio Code (VS Code).
 It provides users with assistance in editing TOSCA YAML files, making the process more efficient and less error-prone.
 
- ## LSP Features
- 
-  - Context dependent auto-completion for TOSCA keywords.
+
+## LSP Features
+
+ - Context dependent auto-completion for TOSCA keywords.
     
 ![ContextDependentKeywordsCompletion](https://github.com/user-attachments/assets/21e4c19d-32d2-400d-9207-106c01289803)
   - Context dependent auto-completion types value for `node templates` and `capability definitions`.
