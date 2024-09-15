@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/ffc546a1-953a-40d5-ad73-03914e4b9b1f
 # GSOC 2024 TOSCA version 2 Language Server
 <br>
 <br>
