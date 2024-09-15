@@ -29,12 +29,16 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 - Context dependent auto-completion for TOSCA keywords.
     
   ![ContextDependentKeywordsCompletion](https://github.com/user-attachments/assets/21e4c19d-32d2-400d-9207-106c01289803)
-- Context dependent auto-completion types value for node templates and capability definitions.
-    
-  ![Context_dependent_auto_completion_types ](https://github.com/user-attachments/assets/16a64091-993d-46fd-8aa1-de5b68c0d66a)
-- Context dependent auto-completion drived_from values for node, `relationship`, `capability`, and `artifact` types.
-    
-  ![Context_dependent_auto_completion_drived_from_values](https://github.com/user-attachments/assets/4a185f51-bc5a-4a86-a8dc-bfb01ede7342)
+- Context dependent auto-completion types value for `node templates` and `capability definitions`.
+
+  ![image](https://github.com/user-attachments/assets/74f86c6d-4b01-47c5-ae81-d8c8a4838a58)
+  ![image](https://github.com/user-attachments/assets/7903888f-1bce-4854-aa47-2c09cb1ab8bb)
+- Context dependent auto-completion drived_from values for `node`, `relationship`, `capability`, and `artifact` types.
+
+  ![image](https://github.com/user-attachments/assets/86b64627-7f9b-4e11-a355-af8fe9a29c31)
+  ![image](https://github.com/user-attachments/assets/4c82858a-3814-496b-9846-7c5c82ea77f3)
+  ![image](https://github.com/user-attachments/assets/89f0fae7-33a2-454c-aacc-74def90487b6)
+  ![image](https://github.com/user-attachments/assets/72ddd7d4-3268-4f4f-9516-a0a854ca1772)
 - Yaml syntax validation with error reporting.
   
   ![image](https://github.com/user-attachments/assets/bb701795-1316-4c79-8f96-574140b9cd94)    
