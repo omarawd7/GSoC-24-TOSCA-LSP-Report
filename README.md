@@ -52,12 +52,13 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 ![image](https://github.com/user-attachments/assets/7580ad15-fcee-40e4-a328-e80732e31b21)
 ![image](https://github.com/user-attachments/assets/d49bb148-b2c3-46b3-97a4-1273a8b75a91)
   - Validation with error reporting for `schema`, `requirement`, `property`, and `capability` definitions.
+
 ![image](https://github.com/user-attachments/assets/43c19f26-8996-494d-b383-7f90668125e9)
 ![image](https://github.com/user-attachments/assets/a67fba8a-caff-49a3-8dd5-4a0568973015)
 ![image](https://github.com/user-attachments/assets/c1faad9d-fd93-4f68-a674-3f266a94d4a1)
 ![image](https://github.com/user-attachments/assets/e74f53d1-df61-47ea-bfc3-42b5b34ae215)
   - Validation with error reporting for `node`, `relationship`, `capability`, and `artifact` types.
-    
+
 ![image](https://github.com/user-attachments/assets/6fca6960-1df7-4957-995e-50c4038700f1)
 ![image](https://github.com/user-attachments/assets/94378602-20c6-42a5-a788-cdbc81b75069)
 ![image](https://github.com/user-attachments/assets/42452cab-0c62-4e66-8659-82fa822ab192)    
