@@ -36,9 +36,17 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
   - Improved parsing of `imports` definitions for nested TOSCA files.
 ![importsTest](https://github.com/user-attachments/assets/cf4f7681-0463-4142-889e-2f1566bbe1d9)
   - Support for multi-file TOSCA projects.
+![Support__multi_file_TOSCA_projects](https://github.com/user-attachments/assets/2f7dcc43-8d7d-456e-aa66-1fe29e31956b)    
   - The LSP is aware of the newly introduced types and definitions.
+![awarness_of_newly_introduced_types_and_definitions](https://github.com/user-attachments/assets/7faa3572-0e6a-4a97-a1db-8d13fb52e818)
   - Validation with error reporting for `service`, and `node` templates.
+![image](https://github.com/user-attachments/assets/7580ad15-fcee-40e4-a328-e80732e31b21)
+![image](https://github.com/user-attachments/assets/d49bb148-b2c3-46b3-97a4-1273a8b75a91)
   - Validation with error reporting for `schema`, `requirement`, `property`, and `capability` definitions.
+![image](https://github.com/user-attachments/assets/43c19f26-8996-494d-b383-7f90668125e9)
+![image](https://github.com/user-attachments/assets/a67fba8a-caff-49a3-8dd5-4a0568973015)
+![image](https://github.com/user-attachments/assets/c1faad9d-fd93-4f68-a674-3f266a94d4a1)
+![image](https://github.com/user-attachments/assets/e74f53d1-df61-47ea-bfc3-42b5b34ae215)
   - Validation with error reporting for `node`, `relationship`, `capability`, and `artifact` types.
   - Validation with error reporting for the TOSCA boolean functions.
 ## Technologies and Tools
