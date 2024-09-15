@@ -32,9 +32,9 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
   - Context dependent auto-completion drived_from values for `node`, `relationship`, `capability`, and `artifact` types.
 ![Derived_from_auto_completion](https://github.com/user-attachments/assets/cc1e555a-33d0-448f-8cbc-782419972a23)
   - Yaml syntax validation with error reporting.
+![yaml_validation](https://github.com/user-attachments/assets/f24587a2-84b0-45a5-abc9-8d463a96cea0)
   - Improved parsing of `imports` definitions for nested TOSCA files.
 ![importsTest](https://github.com/user-attachments/assets/cf4f7681-0463-4142-889e-2f1566bbe1d9)
-
   - Support for multi-file TOSCA projects.
   - The LSP is aware of the newly introduced types and definitions.
   - Validation with error reporting for `service`, and `node` templates.
