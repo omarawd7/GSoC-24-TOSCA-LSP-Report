@@ -44,7 +44,7 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
   ![ContextDependentKeywordsCompletion](https://github.com/user-attachments/assets/21e4c19d-32d2-400d-9207-106c01289803)
 - #### Context dependent auto-completion for the types keyword value.
 
-`node templates`:
+  `node templates`:
   ![image](https://github.com/user-attachments/assets/74f86c6d-4b01-47c5-ae81-d8c8a4838a58)
   `capability definitions`:
   ![image](https://github.com/user-attachments/assets/7903888f-1bce-4854-aa47-2c09cb1ab8bb)
