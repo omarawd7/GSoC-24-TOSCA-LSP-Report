@@ -97,3 +97,11 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 - **Java library**: LSP4j (for building the LSP server).
 - **Communication Protocol**: Language Server Protocol (LSP) over `stdio` launcher.
 - **YAML Library**: SnakeYAML (for parsing YAML files).
+
+
+## Statistics
+
+| **Total commits**       | 93 |
+| **Changes**    | 18078 |
+| **Additions**    | 18036 |
+| **Deletions**    | 42 |
