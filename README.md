@@ -11,7 +11,7 @@
 | **Project name**       | Tosca LSP Server                                                 |
 | **Project mentor**    | Dr. Oliver Kopp                                        |
 | **Project page**       | [Google Summer of Code 2024 Project Page](https://summerofcode.withgoogle.com/myprojects/details/56o5Fdkj)  |
-| **TOSCA specification version 2**    | [TOSCA Version 2.0 Committee Specification Draft]([https://summerofcode.withgoogle.com/myprojects/details/56o5Fdkj](https://docs.oasis-open.org/tosca/TOSCA/v2.0/csd06/TOSCA-v2.0-csd06.html))  |
+| **TOSCA specification version 2**    | [TOSCA Version 2.0 Committee Specification Draft](https://docs.oasis-open.org/tosca/TOSCA/v2.0/csd06/TOSCA-v2.0-csd06.html)  |
 
 ## Project Summary
 
@@ -25,7 +25,7 @@ This project is an enhancement for Eclipse Winery, Eclipse Winery is a web-based
 6- Validation for the definitions: imports definition, property definition, requirements definition, schema definition, and capability definition.<br>
 7- Validation for the templates:
     service template, and node template.<br>
-8- Enhanced key identification mechanism for the TOSCA files by prefixing keys with their parent elements and list indices, providing better clarity and traceability in nested YAML structures.
+8- Enhanced key identification mechanism for the TOSCA files by prefixing keys with their parent elements and list indices, providing better clarity and traceability in nested YAML structures.<br>
 9- Demonstrating the functionality of the LSP server using compatible Visual Studio Code.
 
 ## Vision
