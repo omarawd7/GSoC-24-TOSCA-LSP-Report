@@ -13,6 +13,14 @@
 | **Project page**       | [Google Summer of Code 2024 Project Page](https://summerofcode.withgoogle.com/myprojects/details/56o5Fdkj)  |
 | **TOSCA specification version 2**    | [TOSCA Version 2.0 Committee Specification Draft]([https://summerofcode.withgoogle.com/myprojects/details/56o5Fdkj](https://docs.oasis-open.org/tosca/TOSCA/v2.0/csd06/TOSCA-v2.0-csd06.html))  |
 
+## Project Summary
+
+This project is an enhancement for Eclipse Winery, Eclipse Winery is a web-based environment for modeling OASIS TOSCA topologies, by implementing basic security measures. Currently, Winery focuses on providing a graphical editing environment for modeling application topologies. However, by having a Language Server Protocol (LSP) provider for OASIS TOSCA YAML files. This would allow Winery to support the latest version of the OASIS TOSCA standard and handle dynamic type additions. The outcomes of the project include: 
+1- LSP server supports the latest OASIS TOSCA 2.0 standard.
+2- LSP server that is aware of newly introduced types and makes them available in the service template.
+3- LSP server that handle multiple files whithin reposatory or directory.
+4- LSP server that have context dependent auto-completion.
+4- Demonstrating the functionality of the LSP server using compatible Visual Studio Code.
 
 ## Vision
 
@@ -23,7 +31,6 @@ It also includes lifecycle management procedures that enable the orchestration o
 Currently, crafting TOSCA YAML files manually is complex and prone to errors due to the lack of tooling support.
 This project aims to develop a **Language Server for TOSCA v2** that integrates with Visual Studio Code (VS Code).
 It provides users with assistance in editing TOSCA YAML files, making the process more efficient and less error-prone.
-
 
 ## LSP Features
 
@@ -84,9 +91,15 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
   ![image](https://github.com/user-attachments/assets/42452cab-0c62-4e66-8659-82fa822ab192)    
   `artifact type`:
   ![image](https://github.com/user-attachments/assets/519da4dd-cef8-43a4-ae9c-e25e2fd98c17)
-- #### Validation with error reporting for the TOSCA boolean functions.
+- #### Validation with error reporting for the TOSCA boolean functions in the properties.
     
   ![TOSCA_boolean_functions_test](https://github.com/user-attachments/assets/dc88bbc5-837c-49db-a727-bbc605065f7d)
+
+## Future Work
+
+- Add Go To definition feature to the LSP for the types and derived_from values.
+- Complete the validation for the rest of the TOSCA file.
+- Importing from other directories or reposatories.
 
 ## Technologies and Tools
 
@@ -97,7 +110,6 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 - **Java library**: LSP4j (for building the LSP server).
 - **Communication Protocol**: Language Server Protocol (LSP) over `stdio` launcher.
 - **YAML Library**: SnakeYAML (for parsing YAML files).
-
 
 ## Statistics
 
