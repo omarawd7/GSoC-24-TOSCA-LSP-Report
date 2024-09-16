@@ -25,7 +25,8 @@ This project is an enhancement for Eclipse Winery, Eclipse Winery is a web-based
 6- Validation for the definitions: imports definition, property definition, requirements definition, schema definition, and capability definition.<br>
 7- Validation for the templates:
     service template, and node template.<br>
-8- Demonstrating the functionality of the LSP server using compatible Visual Studio Code.
+8- There is an enhanced key identification mechanism for the TOSCA files by prefixing keys with their parent elements and list indices, providing better clarity and traceability in nested YAML structures.
+9- Demonstrating the functionality of the LSP server using compatible Visual Studio Code.
 
 ## Vision
 
@@ -106,6 +107,12 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 - Complete the validation for the rest of the TOSCA file keynames.
 - Add auto-completion for more contexts in tosca files like auto-completing the requirement definition node and capability.
 - Importing from other directories or repositories into the opened TOSCA file.
+
+## Benefits
+
+- With enhanced YAML parsing and validation, developers will be able to work more efficiently with complex TOSCA models.
+- The validation mechanisms reduce the chances of errors due to incorrect file structures or values.
+- The project making it easier for developers to get real-time feedback while editing TOSCA YAML files in Visual Studio Code.
 
 ## Technologies and Tools
 
