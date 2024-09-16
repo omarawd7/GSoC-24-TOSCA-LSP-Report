@@ -21,19 +21,19 @@ This project is an enhancement for Eclipse Winery, Eclipse Winery is a web-based
 3- LSP server that handle importing from multiple files whithin a reposatory or directory.<br>
 4- LSP server that have context dependent auto-completion for the TOSCA keywords and types.<br>
 5- Validation for the Tosca types:
-- artifact type
-- capability type
-- node type
-- relationship type <br>
+    - artifact type
+    - capability type
+    - node type
+    - relationship type <br>
 6- Validation for the definitions:
-- imports definition
-- property definition
-- requirements definition
-- schema definition
-- capability definition <br>
+    - imports definition
+    - property definition
+    - requirements definition
+    - schema definition
+    - capability definition <br>
 7- Validation for the templates:
-- service template
-- node template <br>
+    - service template
+    - node template <br>
 8- Demonstrating the functionality of the LSP server using compatible Visual Studio Code.
 
 ## Vision
