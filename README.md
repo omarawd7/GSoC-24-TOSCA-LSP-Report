@@ -15,17 +15,17 @@
 
 ## Project Summary
 
-This project is an enhancement for Eclipse Winery, Eclipse Winery is a web-based environment for modeling OASIS TOSCA topologies, by implementing basic security measures. Currently, Winery focuses on providing a graphical editing environment for modeling application topologies. However, by having a Language Server Protocol (LSP) provider for OASIS TOSCA YAML files. This would allow Winery to support the latest version of the OASIS TOSCA standard and handle dynamic type additions. The outcomes of the project include: <br>
+This project is an enhancement for Eclipse Winery, Eclipse Winery is a web-based environment for modeling OASIS TOSCA topologies, by implementing basic security measures. Currently, Winery focuses on providing a graphical editing environment for modeling application topologies, however, by having a Language Server Protocol (LSP) provider for OASIS TOSCA YAML files. This would allow Winery to support the latest version of the OASIS TOSCA standard and handle dynamic type additions. The outcomes of the project include: <br>
 1- LSP server supports the latest OASIS TOSCA 2.0 standard. <br>
-2- LSP server that is aware of newly introduced types and definitions and makes them available in the service template.<br>
-3- LSP server that handles importing from multiple files within a repository or directory.<br>
-4- LSP server that has context-dependent auto-completion for the TOSCA keywords and types.<br>
+2- Awareness of the newly introduced types and definitions and makes them available in the service template.<br>
+3- Importing from multiple files TOSCA files within a repository or directory.<br>
+4- Context-dependent auto-completion for the TOSCA keywords and types.<br>
 5- Validation for the Tosca types:
     artifact type, capability type, node type, and relationship type.<br>
 6- Validation for the definitions: imports definition, property definition, requirements definition, schema definition, and capability definition.<br>
 7- Validation for the templates:
     service template, and node template.<br>
-8- There is an enhanced key identification mechanism for the TOSCA files by prefixing keys with their parent elements and list indices, providing better clarity and traceability in nested YAML structures.
+8- Enhanced key identification mechanism for the TOSCA files by prefixing keys with their parent elements and list indices, providing better clarity and traceability in nested YAML structures.
 9- Demonstrating the functionality of the LSP server using compatible Visual Studio Code.
 
 ## Vision
@@ -110,9 +110,9 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 
 ## Benefits
 
-- With enhanced YAML parsing and validation, developers will be able to work more efficiently with complex TOSCA models.
+- With enhanced YAML parsing, validation, and auto-completion, developers will be able to work more efficiently with complex TOSCA models.
 - The validation mechanisms reduce the chances of errors due to incorrect file structures or values.
-- The project making it easier for developers to get real-time feedback while editing TOSCA YAML files in Visual Studio Code.
+- The LSP makes it easier for developers to get real-time feedback while editing TOSCA YAML files in Visual Studio Code.
 
 ## Technologies and Tools
 
