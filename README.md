@@ -16,11 +16,11 @@
 ## Project Summary
 
 This project is an enhancement for Eclipse Winery, Eclipse Winery is a web-based environment for modeling OASIS TOSCA topologies, by implementing basic security measures. Currently, Winery focuses on providing a graphical editing environment for modeling application topologies. However, by having a Language Server Protocol (LSP) provider for OASIS TOSCA YAML files. This would allow Winery to support the latest version of the OASIS TOSCA standard and handle dynamic type additions. The outcomes of the project include: 
-1- LSP server supports the latest OASIS TOSCA 2.0 standard.
-2- LSP server that is aware of newly introduced types and makes them available in the service template.
-3- LSP server that handle multiple files whithin reposatory or directory.
-4- LSP server that have context dependent auto-completion.
-4- Demonstrating the functionality of the LSP server using compatible Visual Studio Code.
+- LSP server supports the latest OASIS TOSCA 2.0 standard.
+- LSP server that is aware of newly introduced types and definitions and makes them available in the service template.
+- LSP server that handle importing from multiple files whithin a reposatory or directory.
+- LSP server that have context dependent auto-completion for the TOSCA keywords and types.
+- Demonstrating the functionality of the LSP server using compatible Visual Studio Code.
 
 ## Vision
 
@@ -98,8 +98,9 @@ It provides users with assistance in editing TOSCA YAML files, making the proces
 ## Future Work
 
 - Add Go To definition feature to the LSP for the types and derived_from values.
-- Complete the validation for the rest of the TOSCA file.
-- Importing from other directories or reposatories.
+- Complete the validation for the rest of the TOSCA file keynames.
+- Add auto-completion for more contexts in tosca files like auto-completing the requirement definition node and capability.
+- Importing from other directories or reposatories into the oppened tosca file.
 
 ## Technologies and Tools
 
