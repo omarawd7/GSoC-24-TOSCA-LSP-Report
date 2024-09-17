@@ -160,6 +160,18 @@ The outcomes of the project include:
 - The validation mechanisms reduce the chances of errors due to incorrect file structures or values.
 - The LSP makes it easier for developers to get real-time feedback while editing TOSCA YAML files in Visual Studio Code.
 
+## Key Learnings and Challenges
+
+- **Java Coding**: I learned and deepened my knowledge of Java, which was essential for building the language server and handling various parsing tasks.
+  
+- **LSP Protocol**: Implementing the Language Server Protocol (LSP) was a new challenge, especially in handling communication between the client (VS Code) and the server. I learned how LSP works, including methods to provide language features such as autocomplete and error checking.
+
+- **Handling References in YAML Files**: A significant challenge involved managing references to specific lines and sections in YAML files. I had to implement ways to correctly and uniquely identify and locate elements within the nested structure of TOSCA YAML files.
+
+- **Reading Specifications**: The TOSCA 2.0 specification was completely new to me. I had to become familiar with reading to ensure correct implementation of TOSCA's features within the language server. This skill was crucial to accurately translate spec requirements into functional code.
+
+These areas, although challenging at times, have contributed greatly to my growth as a developer and my understanding of the TOSCA ecosystem.
+
 ## Technologies and Tools
 
 - **Language**: Java.
