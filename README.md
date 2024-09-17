@@ -69,7 +69,7 @@ The outcomes of the project include:
 
 ![](https://github.com/user-attachments/assets/86b64627-7f9b-4e11-a355-af8fe9a29c31)
 
-#### Capability Tye
+#### Capability Type
 
 ![](https://github.com/user-attachments/assets/4c82858a-3814-496b-9846-7c5c82ea77f3)
 
@@ -99,7 +99,7 @@ The outcomes of the project include:
   
 ### Validation with error reporting for service, and node templates
 
-##### Node Templates
+#### Node Templates
 
 ![image](https://github.com/user-attachments/assets/7580ad15-fcee-40e4-a328-e80732e31b21)
 
