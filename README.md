@@ -1,4 +1,4 @@
-# GSOC 2024 Language Server<br>for OASIS TOSCA Version 2 Language Server
+# GSOC 2024 Language Server for OASIS TOSCA Version 2 Language Server
 <br>
 
 ##  Project Information
