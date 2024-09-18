@@ -9,7 +9,7 @@ This project was done in the context of [Google Summer of Code 2024](https://sum
 | **Student**            | [Omar Awad](https://github.com/omarawd7)                                                                                    |
 | **Organization**       | [Eclipse Foundation](https://www.eclipse.org/org/foundation/)                                                               |
 | **Primary repository** | [org.eclipse.winery.lsp](https://github.com/omarawd7/winery/tree/lsp/org.eclipse.winery.lsp)                                |
-| **Project name**       | Tosca LSP Server                                                                                                            |
+| **Project name**       | TOSCA LSP Server                                                                                                            |
 | **Project mentor**     | [Dr. Oliver Kopp](https://github.com/koppor/)                                                                               |
 | **Project page**       | [Google Summer of Code 2024 Project Page](https://summerofcode.withgoogle.com/programs/2024/projects/56o5Fdkj)              |
 | **TOSCA Version 2.0**  | [TOSCA Version 2.0 Committee Specification Draft](https://docs.oasis-open.org/tosca/TOSCA/v2.0/csd06/TOSCA-v2.0-csd06.html) |
