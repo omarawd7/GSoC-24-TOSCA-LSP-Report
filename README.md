@@ -1,5 +1,7 @@
 # Language Server for OASIS TOSCA Version 2
 
+This project was done in the context of [Google Summer of Code 2024](https://summerofcode.withgoogle.com/).
+
 ##  Project Information
 
 | **Field**              | **Details**                                                                                                                 |
